@@ -1,6 +1,10 @@
 # Restaurant Page
 
 This is a restaurant web page was completed for Odin Project Javascript Restaurant Page Assignment.  
+
+## Live Website
+https://xsymmetry9.github.io/restaurant/
+
 The aim of the project was to make a funcitonal multi page Restaurant website using Webpack to bundle pages.
 
 ## Built With
