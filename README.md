@@ -18,9 +18,9 @@ git clone https://github.com/xsymmetry9/restaurant.git
 2. Install the required dependencies:
 
 ````
-npm install 
+npm install webpack webpack-cli webpack-dev-server css-loader style-loader
 ````
-3. To bundle files use:
+3. To bundle files use: 
 ```` 
 npm run build
 ````
